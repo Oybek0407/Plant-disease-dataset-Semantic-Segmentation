@@ -1,7 +1,7 @@
 # Plant-disease-dataset-Semantic-Segmentation
 
 
-1. check sample dataset Orginal Image and GT
+1. Check the original images along with their ground truth labels from sample dataset
 
 
 ![aple](https://github.com/TeachAI-UZ/CodingMasters/assets/121758616/edaee0d9-aed1-445a-b2aa-b6fa297f3695)
